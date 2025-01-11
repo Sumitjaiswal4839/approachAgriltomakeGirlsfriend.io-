@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue; /* fills the background with light blue color */
+}
+
+.colored-box {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 80, 255); /* fills the box with coral color */
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}
